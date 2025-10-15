@@ -1,0 +1,3 @@
+Favorite food: Mango
+Favorite sport: Swimming
+Favorite STEM thing: Math  
